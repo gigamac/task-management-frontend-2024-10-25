@@ -1,4 +1,4 @@
-name: DeployNpm
+name: Deploy
 
 on: [workflow_dispatch]
 
