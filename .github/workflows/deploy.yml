@@ -12,10 +12,10 @@ jobs:
       - name: Yarn Cache
         uses: c-hive/gha-yarn-cache@v1
 
-      - name: Set Up Node
-        uses: actions/setup-node@v4.1.0
+      - name: Set Up Node 12
+        uses: actions/setup-node@v1
         with:
-          node-version: 22.2.0
+          node-version: 11.9.0
 
       - name: Install dependencies
         run: yarn
