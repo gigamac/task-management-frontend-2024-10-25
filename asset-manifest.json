@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://gigamac.github.io/task-management-frontend-2024-10-25/static/css/main.902b4043.chunk.css",
+    "main.js": "https://gigamac.github.io/task-management-frontend-2024-10-25/static/js/main.c8cf20e2.chunk.js",
+    "main.js.map": "https://gigamac.github.io/task-management-frontend-2024-10-25/static/js/main.c8cf20e2.chunk.js.map",
+    "runtime~main.js": "https://gigamac.github.io/task-management-frontend-2024-10-25/static/js/runtime~main.8a042dd6.js",
+    "runtime~main.js.map": "https://gigamac.github.io/task-management-frontend-2024-10-25/static/js/runtime~main.8a042dd6.js.map",
+    "static/js/2.1a5b130f.chunk.js": "https://gigamac.github.io/task-management-frontend-2024-10-25/static/js/2.1a5b130f.chunk.js",
+    "static/js/2.1a5b130f.chunk.js.map": "https://gigamac.github.io/task-management-frontend-2024-10-25/static/js/2.1a5b130f.chunk.js.map",
+    "index.html": "https://gigamac.github.io/task-management-frontend-2024-10-25/index.html",
+    "precache-manifest.5977853d528422c3d8f6748e4269fda0.js": "https://gigamac.github.io/task-management-frontend-2024-10-25/precache-manifest.5977853d528422c3d8f6748e4269fda0.js",
+    "service-worker.js": "https://gigamac.github.io/task-management-frontend-2024-10-25/service-worker.js",
+    "static/css/main.902b4043.chunk.css.map": "https://gigamac.github.io/task-management-frontend-2024-10-25/static/css/main.902b4043.chunk.css.map"
+  }
+}
